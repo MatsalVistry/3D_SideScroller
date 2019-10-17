@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Image Tool Tester</label>
+	</settings>
+	<users>
+		<user>
+			<path>Image Tool Tester2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Image Tool Tester.jcp</path>
+		</project>
+	</projects>
+</workspace>
